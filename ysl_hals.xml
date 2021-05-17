@@ -7,7 +7,7 @@
 	<remote  name="los"
 		fetch="https://github.com/LineageOS" />
 	<remote  name="Dhruv"
-		fetch="https://github.com/DhruvChhura"
+		fetch="https://github.com/DhruvChhura" />
 
     # HALS
     <remove-project name="android_hardware_qcom_audio" />

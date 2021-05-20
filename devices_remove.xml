@@ -2,6 +2,7 @@
 <manifest>
 	<remove-project name="device/common"/>
 	<remove-project name="device/generic/arm64"/>
+        <remove-project name="device/generic/opengl-transport" />
 	<remove-project name="device/generic/armv7-a-neon"/>
 	<remove-project name="device/generic/x86_64"/>
 	<remove-project name="device/google_car"/>
@@ -15,4 +16,3 @@
 	<remove-project name="device/generic/trusty"/>
 	<remove-project name="device/generic/x86"/>
 </manifest>
-
